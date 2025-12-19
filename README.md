@@ -1,4 +1,4 @@
-Advisor App 🤖
+# Advisor App 🤖
 
 Advisor App is a Spring Boot application built using Spring AI and Google Gemini. The project demonstrates how to integrate AI-powered chat capabilities into a Spring Boot application using clean architecture and constructor-based dependency injection.
 
