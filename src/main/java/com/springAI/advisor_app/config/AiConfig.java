@@ -3,7 +3,6 @@ package com.springAI.advisor_app.config;
 import com.springAI.advisor_app.advisor.TokenPrintAdvisor;
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.ai.chat.client.advisor.SafeGuardAdvisor;
-import org.springframework.ai.chat.client.advisor.SimpleLoggerAdvisor;
 import org.springframework.ai.google.genai.GoogleGenAiChatOptions;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -28,6 +27,4 @@ public class AiConfig {
 
 
     }
-
-
 }
